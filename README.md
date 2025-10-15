@@ -4,7 +4,6 @@
 [![Excel](https://img.shields.io/badge/Excel-Data%20Modeling-orange.svg)](https://microsoft.com/excel)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Visualization-blue.svg)](https://powerbi.microsoft.com)
 [![Python](https://img.shields.io/badge/Python-Data%20Processing-yellow.svg)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## 📋 Overview
 
@@ -32,6 +31,12 @@ A comprehensive SQL-based analysis of marketing campaign performance across mult
 - **Python**: Advanced analytics and machine learning
 - **R**: Statistical analysis and modeling
 - **Tableau**: Alternative visualization platform
+
+## 🎯 Live Demo
+
+**🌐 [View Live Demo](https://shivamsahugzp.github.io/portfolio-projects-demo-hub/#marketing-demo)** | **📁 [Source Code](https://github.com/shivamsahugzp/sql-driven-marketing-campaign-analysis)**
+
+Interactive demonstration showcasing SQL analytics, ROI calculations, and marketing campaign insights.
 
 ## 🚀 Quick Start
 
@@ -760,7 +765,6 @@ if __name__ == "__main__":
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
